@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MulticastDelegatesDemo
+namespace MulticastDelegates
 {
     public delegate void CalculateDelegate(int a, int b);
     public delegate void StringDelegate(string str);
